@@ -72,7 +72,7 @@
 	br.devices{
 		display:none;
 	}
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 580px) {
 		.devices {
 			float: none;
 		}
